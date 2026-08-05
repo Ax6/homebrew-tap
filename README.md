@@ -11,4 +11,4 @@ document, and edits like Obsidian's live preview. Signed and notarized.
 brew install Ax6/tap/foglio
 ```
 
-Source: https://github.com/Ax6/showmd
+Source: https://github.com/Ax6/foglio
