@@ -1,8 +1,8 @@
 # Updated on each release with the version and sha256 from the
 # Foglio MD release workflow's job summary.
 cask "foglio" do
-  version "0.3.0"
-  sha256 "4dfbb1b065cb3b8aa8b0c73b543447364abc9bb8eaa37d3da1a5a7c3f708cd14"
+  version "0.4.0"
+  sha256 "34dae49e442b0adfd98c5f35b7d3e38d4cfa11b029b7dceec49a98b2f9b770cf"
 
   url "https://github.com/Ax6/foglio/releases/download/v#{version}/foglio-#{version}-universal.app.tar.gz"
   name "Foglio MD"
